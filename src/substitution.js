@@ -17,7 +17,6 @@ const substitutionModule = (function () {
       alphabet.forEach((letter) => {
         let count = 0;
         for (let i = 0; i < alphabet.length; i++) {
-          // console.log(`Letter: ${letter} : char: ${alphabet[i]}`);
           if (letter === alphabet[i]) {
             count++;
           }
