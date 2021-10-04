@@ -17,7 +17,7 @@ To work on complex JavaScript functions.
 ## Preview
 An entire view of the deocder ring site.
 
-![Decoder-ring](https://github.com/Fenrisulfr-33/decoder-ring/decoder-ring.PNG?raw=true)
+![Decoder-ring](https://github.com/Fenrisulfr-33/decoder-ring/blob/main/decoder-ring.png?raw=true)
 
 ## How to install
 
